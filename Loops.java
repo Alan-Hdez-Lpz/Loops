@@ -98,7 +98,5 @@ public class Loops {
             }
         } while (validation);
         sc.close();
-
-
     }
 }
